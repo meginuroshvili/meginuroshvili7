@@ -1,4 +1,25 @@
-.box {
-    width: 370px;
-    height: 451px;
+.logo {
+    width: 195px;
+    height: 39px;
+    color: #3D37F1;
+    font-size: 32px;
+    margin-right: 725px;
+}
+.sub-logo {
+    color: #4B647E;
+}
+.header-wraper {
+    margin-top: 67px;
+    margin-left: 132px;
+    display: flex;
+    align-items: center;
+}
+.list-wraper {
+    width: 581px;
+    height: 24px;
+    display: flex;
+    justify-content: space-between;
+}
+.list {
+    color: #3D37F1;
 }
