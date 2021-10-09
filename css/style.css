@@ -25,7 +25,7 @@
     font-family: 'Lato', sans-serif;
     font-weight: bold;
 }
-.section-a {
+.div-wraper {
     display: flex;
     justify-content: space-around;
     padding-bottom: 288px;
