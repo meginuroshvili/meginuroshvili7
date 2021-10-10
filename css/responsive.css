@@ -1,0 +1,24 @@
+/* header responsive */
+
+/* upper-section responsive */
+
+@media (max-width: 768px) {
+    .div-wraper {
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+    .left-block {
+        margin-top: 100px;
+    }
+    .navi {
+        display: none;
+    }
+    .burger-bar {
+        display: block;
+    }
+}
+@media (max-width: 480px) {
+    .div-header {
+        font-size: 58px;
+    }
+}
